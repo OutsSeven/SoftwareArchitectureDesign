@@ -1,0 +1,4 @@
+﻿  p_DataBaseOp.cpp
+C:\Users\k\source\repos\P_DataBaseLevel\P_DataBaseLevel\p_DataBaseOp.cpp(47,69): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+C:\Users\k\source\repos\P_DataBaseLevel\P_DataBaseLevel\p_DataBaseOp.cpp(53,63): warning C4267: “参数”: 从“size_t”转换到“unsigned long”，可能丢失数据
+  P_DataBaseLevel.vcxproj -> C:\Users\k\source\repos\P_DataBaseLevel\x64\Debug\P_DataBaseLevel.exe
